@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  ping-pong-project:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-03-01T05:29:03.094682+05:30"
+    description: A Helm chart for ping-pong-project for repository "https://github.com/alexwalling/ping-pong-api"
+    digest: bc04023f8a9cc2d9b135223f20549daf7d32fa26fd2c11481fa8db96775cf0d2
+    maintainers:
+    - email: adityadewani10@gmail.com
+      name: aditya dewani
+    name: ping-pong-project
+    type: application
+    urls:
+    - https://github.com/dewaniadi/myHelm/ping-pong-project-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-01T05:29:03.093329+05:30"

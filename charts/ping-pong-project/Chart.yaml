@@ -1,0 +1,9 @@
+apiVersion: v2
+name: ping-pong-project
+description: A Helm chart for ping-pong-project for repository "https://github.com/alexwalling/ping-pong-api"
+type: application
+version: 0.1.0 # helm chart version
+appVersion: "1.0.0" # application version
+maintainers:
+  - name: "aditya dewani"
+    email: "adityadewani10@gmail.com"
