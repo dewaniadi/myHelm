@@ -9,7 +9,7 @@ image:
   repository: dewaniadi.azurecr.io/pingpong
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: distrolessv2
+  tag: distrolessv1
 
 imagePullSecrets: []
 nameOverride: ""
