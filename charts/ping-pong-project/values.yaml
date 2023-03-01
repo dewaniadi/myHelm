@@ -6,7 +6,7 @@ namespace: dev
 replicaCount: 2
 
 image:
-  repository: pingpong
+  repository: dewaniadi.azurecr.io/pingpong
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: distrolessv2
